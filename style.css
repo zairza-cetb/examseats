@@ -5,7 +5,7 @@
   color: black;
   background-color: transparent;
   cursor: default;
-  margin-top: 100px;
+  margin-top: 200px;
   margin-left: 100px;
 
 }
@@ -30,6 +30,9 @@
 body{
 
     background : url(http://pausemag.sjmc.umn.edu/wp-content/uploads/2012/03/graduation-university-backgrounds-wallpapers2.jpg)no-repeat center center fixed;
-    background-position: top 100px;
+     -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
